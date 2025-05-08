@@ -1,7 +1,7 @@
 # Hey I'm Code 👋
-💻 Frontend/Backend web developer
-🥁 I like drumming
-✨ Stupid but smart
+<div>💻 Frontend/Backend web developer</div>
+<div>🥁 I like drumming</div>
+<div>✨ Stupid but smart</div>
 
 ## Tech stack
 
