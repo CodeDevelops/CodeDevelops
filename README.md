@@ -5,5 +5,5 @@
 ## Tech stack
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=ts,js,css,html,nodejs,react,electron,java,py,godot" />
+  <img src="https://skillicons.dev/icons?i=ts,js,css,html,react,electron,java,py,godot" />
 </a>
